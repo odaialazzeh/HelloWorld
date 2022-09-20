@@ -1,18 +1,14 @@
-# HelloWorld
+
 
 [](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
 
-Hello Microverse!
+ HelloWorld
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-
+- HTML & CSS
 
 
 
